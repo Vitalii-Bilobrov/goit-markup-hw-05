@@ -685,7 +685,8 @@ fill: var(--color-mainWhite)
   background-color: var(--color-mainWhite);
 }
 .close-black-svg{
-
+width: 18px;
+height: 18px;
   fill: var(--color-mainBlack);
 }
 
