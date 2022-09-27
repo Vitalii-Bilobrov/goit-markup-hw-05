@@ -672,6 +672,8 @@ address .tel {
   height: 100%;
   top: 0;
   left: 0;
+
+  opacity: 1;
 }
 .backdrop.is-hidden {
   opacity: 0;
